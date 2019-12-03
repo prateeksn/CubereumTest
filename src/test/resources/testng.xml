@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "testng-1.0.dtd">
+<suite name="Cubereum_Testing" verbose="1" >
+	<test name="Smoke Suite" allow-return-values="true">
+		<classes>	
+		     <class name="com.testcases.AmazonTest.productSearchTest">
+		</classes>
+	</test>	
+</suite>
